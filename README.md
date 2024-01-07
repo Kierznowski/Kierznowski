@@ -3,7 +3,9 @@
 
 <h3>About me</h3> </br>
 👔 Currently working as a sales engineer but not for much longer.</br>
-After work I go to the gym 🏋️ and play squash 🎾.
+🏃Sports: gym and squash
+🧩Interests: finance, automotive, craft beer, playing guitar
+
 
 <b>Tech stack:</b></br>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a>
