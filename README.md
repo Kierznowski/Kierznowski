@@ -3,9 +3,9 @@
 <h2>About me</h2>
 
 
-I'm Przemek (/ˈpʂɛ.mɛk/). 
-I'm a passionate back-end developer who isn't scare of front-end. 
-👔 Currently workking as a sales engineer but not for much longer 😉
+I'm Przemek (/ˈpʂɛ.mɛk/). </br>
+I'm a passionate back-end developer who isn't scare of front-end. </br>
+👔 Currently workking as a sales engineer but not for much longer 😉 </br>
 
 
 <h3>Languages and tools:</h3>
