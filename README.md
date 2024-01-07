@@ -20,18 +20,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kierznowski&show_icons=true&locale=en&layout=compact" alt="kierznowski" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kierznowski&show_icons=true&locale=en" alt="kierznowski" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kierznowski&" alt="kierznowski" /></p>
 
 
 
-
-
+![](https://komarev.com/ghpvc/?username=Kierznowski&color=lightgrey)
 
 ![Codewars](https://github.r2v.ch/codewars?user=Kierznowski&top_languages=true&theme=gradient)
-
-
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kierznowski&layout=compact&theme=theme)
-
-![](https://komarev.com/ghpvc/?username=Kierznowski&color=lightgrey)
