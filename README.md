@@ -1,4 +1,12 @@
-<h2>Hello there 👋</h2>
+<h1>Hello there 👋  </h1> 
+
+<h3>Anout me</h3>
+
+I'm Przemek (/ˈpʂɛ.mɛk/). 
+I'm a passionate back-end developer who isn't scare of front-end. 
+👔 Currently workking as a sales engineer but not for much longer 😉
+
+<b>My tech stack:</b>
 
 
 
