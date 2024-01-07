@@ -23,7 +23,5 @@
 <br>
 <br>
 <br>
-My social: </br>
-
 <br>
 ![](https://komarev.com/ghpvc/?username=Kierznowski&color=lightgrey)
