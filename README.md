@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Przemek (/ˈpʂɛ.mɛk/)</h1>
 <h3 align="center">I'm a passionate back-end developer who isn't scare of front-end.</h3>
 
-👔 Currently workking as a sales engineer but not for much longer 😉 </br> </br>
-
+<h3>About me</h3> </br>
+👔 Currently workking as a sales engineer but not for much longer 😉 </br>
 
 
 
