@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Przemek</h1>
-<h3 align="center">I'm a passionate back-end developer who isn't scare of front-end 😉</h3>:-
+<h3 align="center">I'm a passionate back-end developer who isn't scare of front-end 😉</h3>
 
 <h3>About me</h3>
 👔 Currently working as a sales engineer but not for much longer.<br>
@@ -24,10 +24,6 @@
 <br>
 <br>
 My social: </br>
-<a href="https://www.instagram.com/Kierznowski" target="_blank" rel="noreferrer"> Instagram </a> </br>
-<a href="https://www.linkedin.com/in/Kierznowski" target="_blank" rel="noreferrer"> LinkedIn </a>
+
 <br>
 ![](https://komarev.com/ghpvc/?username=Kierznowski&color=lightgrey)
-<br>
-<br>
-![Codewars](https://github.r2v.ch/codewars?user=Kierznowski&top_languages=true&theme=gradient)
