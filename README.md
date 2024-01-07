@@ -20,7 +20,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kierznowski&show_icons=true&locale=en&layout=compact" alt="kierznowski" /></p> </br>
 
 My social: </br>
-[![Instagram](images/instagram.svg)](https://www.instagram.com/Kierznowski/)
+[![Instagram](images/Instagram.png)](https://www.instagram.com/Kierznowski/)
+[![Linkedin](images/Linkedin.png)](https://www.linkedin.com/in/Kierznowski/)
 
 
 
