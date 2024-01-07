@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Przemek (/ˈpʂɛ.mɛk/)</h1>
+<h1 align="center">Hi 👋, I'm Przemek</h1>
 <h3 align="center">I'm a passionate back-end developer who isn't scare of front-end 😉</h3>
 
 <h3>About me</h3> </br>
@@ -21,8 +21,8 @@ After work I go to the gym 🏋️ and play squash 🎾.
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kierznowski&show_icons=true&locale=en&layout=compact" alt="kierznowski" /></p> </br>
 
 My social: </br>
-[![Instagram](images/Instagram.png)](https://www.instagram.com/Kierznowski/)
-[![Linkedin](images/Linkedin.png)](https://www.linkedin.com/in/Kierznowski/)
+<a href="https://www.instagram.com/Kierznowski" target="_blank" rel="noreferrer"> Instagram </a> </br>
+<a href="https://www.linkedin.com/in/Kierznowski" target="_blank" rel="noreferrer"> LinkedIn </a>
 
 
 
