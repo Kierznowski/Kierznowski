@@ -1,11 +1,9 @@
-<h1>Hello there 👋  </h1> 
+<h1 align="center">Hi 👋, I'm Przemek (/ˈpʂɛ.mɛk/)</h1>
+<h3 align="center">I'm a passionate back-end developer who isn't scare of front-end.</h3>
 
-<h2>About me</h2>
+👔 Currently workking as a sales engineer but not for much longer 😉 </br> </br>
 
 
-I'm Przemek (/ˈpʂɛ.mɛk/). </br>
-I'm a passionate back-end developer who isn't scare of front-end. </br>
-👔 Currently workking as a sales engineer but not for much longer 😉 </br>
 
 
 <h3>Languages and tools:</h3>
@@ -18,6 +16,13 @@ I'm a passionate back-end developer who isn't scare of front-end. </br>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kierznowski&show_icons=true&locale=en&layout=compact" alt="kierznowski" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kierznowski&show_icons=true&locale=en" alt="kierznowski" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kierznowski&" alt="kierznowski" /></p>
 
 
 
