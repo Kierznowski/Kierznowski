@@ -6,6 +6,8 @@
 🏃Sports: gym and squash<br>
 🧩Interests: finance, automotive, craft beer, playing guitar<br>
 <br>
+My main project right now: <a href="https://github.com/Kierznowski/CaffeineApp">☕ Caffeine app ☕ </a>
+<br>
 <br>
 <b>Tech stack:</b><br>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a>
