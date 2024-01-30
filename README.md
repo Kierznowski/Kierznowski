@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Przemek</h1>
-<h3 align="center">I'm a passionate back-end developer who isn't scare of front-end 😉</h3>
+<h3 align="center">I'm a passionate back-end developer who isn't scared of front-end 😉</h3>
 
 <p><h3>About me</h3></p>
 🌆 Living in Warsaw<br>
