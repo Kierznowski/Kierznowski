@@ -3,9 +3,9 @@
 
 <p><h3>About me</h3></p>
 🌆 Living in Warsaw<br>
-👔 Currently working as a sales engineer but not for much longer.<br>
-🏃Sports: gym and squash<br>
-🧩Interests: finance, CTF, automotive, cinematography, craft beer, playing guitar<br>
+👔 Looking for a job as a software developer
+🏃 Sports: gym and squash<br>
+🧩 Interests: finance, CTF, automotive, cinematography, craft beer, playing guitar<br>
 <br>
 <b>My main project right now: </b><a href="https://github.com/Kierznowski/CaffeineApp">☕ Caffeine app ☕ </a>
 <br>
