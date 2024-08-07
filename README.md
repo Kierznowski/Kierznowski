@@ -7,18 +7,20 @@
 🏃 Sports: gym, running and squash<br>
 🧩 Interests: finance, automotive, engineering, cinematography, craft beer, playing guitar<br>
 <br>
-<b>My main project right now: </b><a href="https://github.com/Kierznowski/CaffeineApp">☕ Caffeine app ☕ </a>
+<b>Currently working on: <a href="https://github.com/Kierznowski/tamagotchi-js">🐶 Tamagotchi-js 🐶</a> <br>
+<b>Other projects: <a href="https://github.com/Kierznowski/CaffeineApp">☕ Caffeine app ☕ </a>
 <br>
 <br>
 <b>Tech stack:</b>
 <br> <br>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="images/Java_logo_logo.webp" alt="java" height="30"/> </a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="images/Spring_Boot.svg.png" alt="spring" width="30" height="30"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="images/Python-logo-notext.svg.png" alt="python" width="30" height="30"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="images/JavaScript-logo.png" alt="javascript" width="30"/> </a>
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="images/Node.svg" alt="nodejs" height="30"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="images/Python-logo-notext.svg.png" alt="python" width="30" height="30"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="images/Docker_(container_engine)_logo_(cropped).png" alt="docker" height="30"/> </a>
 <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank" rel="noreferrer"> <img src="images/bash.png" alt="bash" width="30" height="30"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="images/mysql.svg" alt="mysql" width="30" height="30"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="images/MySQL_logo.svg.png" alt="mysql" height="30"/> </a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="/images/Postgresql_elephant.svg.png" alt="postgreSQL" width="30" height="30"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="Windows" width="30" height="30"/> </a>
 <a href="https://www.microsoft.com/" target="_blank" rel="noreferrer"> <img src="images/Windows.png" alt="Windows" width="30" height="30"/> </a>
@@ -31,10 +33,8 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Kierznowski?ext=heatmap)
 
 <br>
-<br>
-<br>
 <b>You can reach me at:</b>
-<br> <br>
+<br>
 <p align="left"> 
 <a href="mailto:przemek.kierznowski@gmail.com" target="_blank" rel="noreferrer"> <picture> <img src="images/Gmail_icon_(2020).svg.png" width="32" height="32" /> </picture> </a>
 <a href="http://www.instagram.com/kierznowski" target="_blank" rel="noreferrer"> <picture> <img src="images/Instagram_logo_2016.svg.webp" width="32" height="32" /> </picture> </a> 
