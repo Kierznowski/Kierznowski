@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Przemek</h1>
-<h3 align="center">I mainly develop backend, but I know HTML and CSS, so I pretend to be a fullstack</h3>
+<h3 align="center">I mainly develop backend, but I know HTML, CSS and JS, so I pretend to be a fullstack</h3>
 
 <p><h3>About me</h3></p>
 🌆 Living in Warsaw<br>
