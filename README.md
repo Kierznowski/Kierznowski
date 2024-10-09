@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Przemek</h1>
-<h3 align="center">I mainly develop backend, but I know HTML and CSS, so I pretend to be a fullstack</h3>
+<h3 align="center">I mainly develop backend, but I know HTML, CSS and JS, so I pretend to be a fullstack</h3>
 
 <p><h3>About me</h3></p>
 🌆 Living in Warsaw<br>
@@ -7,8 +7,10 @@
 🏃 Sports: gym, running and squash<br>
 🧩 Interests: finance, automotive, engineering, cinematography, craft beer, playing guitar<br>
 <br>
-<b>Currently working on: <a href="https://github.com/Kierznowski/tamagotchi-js">🐶 Tamagotchi-js 🐶</a> <br>
-<b>Other projects: <a href="https://github.com/Kierznowski/CaffeineApp">☕ Caffeine app ☕ </a>
+<b>Currently working on:
+  <a href="https://github.com/Kierznowski/rental-app">🏢 rental-app 🏡</a> || 
+  <a href="https://github.com/Kierznowski/java-2d-game">🏝️ java-2d-game 🪓</a> <br>
+<b>Other projects: <a href="https://github.com/Kierznowski/CaffeineApp">☕ Caffeine app ☕ </a> ||<a href="https://github.com/Kierznowski/tamagotchi-js"> 🐶 Tamagotchi-js 🐶 </a>
 <br>
 <br>
 <b>Tech stack:</b>
