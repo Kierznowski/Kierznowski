@@ -16,8 +16,9 @@
 <b>Tech stack:</b>
 <br> <br>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="images/Java_logo_logo.webp" alt="java" height="30"/> </a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="images/Spring_Boot.svg.png" alt="spring" width="30" height="30"/> </a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="images/Spring_Boot.svg.png" alt="spring" width="30" height="30"/> </a>  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="images/JavaScript-logo.png" alt="javascript" width="30"/> </a>
+<a href="https://react.dev" target="_blank" rel="noreferrer"> <img src="images/React.svg" alt="react" width="30"/> </a>
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="images/Node.svg" alt="nodejs" height="30"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="images/Python-logo-notext.svg.png" alt="python" width="30" height="30"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="images/Docker_(container_engine)_logo_(cropped).png" alt="docker" height="30"/> </a>
