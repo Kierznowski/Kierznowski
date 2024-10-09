@@ -7,7 +7,9 @@
 🏃 Sports: gym, running and squash<br>
 🧩 Interests: finance, automotive, engineering, cinematography, craft beer, playing guitar<br>
 <br>
-<b>Currently working on: <a href="https://github.com/Kierznowski/java-2d-game">🏝️ java-2d-game 🪓</a> <br>
+<b>Currently working on:
+  <a href="https://github.com/Kierznowski/rental-app">🏢 rental-app 🏡</a> || 
+  <a href="https://github.com/Kierznowski/java-2d-game">🏝️ java-2d-game 🪓</a> <br>
 <b>Other projects: <a href="https://github.com/Kierznowski/CaffeineApp">☕ Caffeine app ☕ </a> ||<a href="https://github.com/Kierznowski/tamagotchi-js"> 🐶 Tamagotchi-js 🐶 </a>
 <br>
 <br>
