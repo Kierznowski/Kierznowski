@@ -7,7 +7,8 @@
 🏃 Sports: gym, running and squash<br>
 🧩 Interests: finance, automotive, engineering, cinematography, craft beer, playing guitar<br>
 <br>
-📰 <a href="https://kierznowski.pl">Blog (for now, only in polish)</a> 
+📰 Blog <a href="https://kierznowski.pl">(for now, only in polish)</a> 
+<br>
 <b>Currently working on:
   <a href="https://github.com/Kierznowski/rental-app">🏢 rental-app 🏡</a> || 
   <a href="https://github.com/Kierznowski/java-2d-game">🏝️ java-2d-game 🪓</a> <br>
