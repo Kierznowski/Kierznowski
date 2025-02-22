@@ -3,7 +3,6 @@
 
 <p><h3>About me</h3></p>
 🌆 Living in Warsaw<br>
-👔 Looking for a job as a software developer<br>
 🏃 Sports: gym, running and squash<br>
 🧩 Interests: finance, automotive, engineering, cinematography, craft beer, playing guitar<br>
 <br>
