@@ -8,10 +8,14 @@
 <br>
 📰 Blog <a href="https://kierznowski.pl">(for now, only in polish)</a> 
 <br>
+<br>
 <b>Currently working on:
+  💰 Super secret project for the Client 🤫
+  <br> <br>
+  Other projects:
   <a href="https://github.com/Kierznowski/rental-app">🏢 rental-app 🏡</a> || 
   <a href="https://github.com/Kierznowski/java-2d-game">🏝️ java-2d-game 🪓</a> <br>
-<b>Other projects: <a href="https://github.com/Kierznowski/CaffeineApp">☕ Caffeine app ☕ </a> ||<a href="https://github.com/Kierznowski/tamagotchi-js"> 🐶 Tamagotchi-js 🐶 </a>
+ <a href="https://github.com/Kierznowski/CaffeineApp">☕ Caffeine app ☕ </a>
 <br>
 <br>
 <b>Tech stack:</b>
