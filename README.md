@@ -10,7 +10,7 @@
 <br>
 <br>
 <b>Currently working on:
-  💰 Super secret project for the Client 🤫
+  Silibyte (freelance)
   <br> <br>
   Other projects:
   <a href="https://github.com/Kierznowski/rental-app">🏢 rental-app 🏡</a> || 
