@@ -13,7 +13,7 @@
   Silibyte (freelance)
   <br> <br>
   Other projects:
-  <a href="https://github.com/Kierznowski/http_server_in_C">📥 Simple Http Server in C 📤</a>
+  <a href="https://github.com/Kierznowski/http_server_in_C">📥 Simple Http Server in C 📤</a> ||
   <a href="https://github.com/Kierznowski/rental-app">🏢 rental-app 🏡</a> || 
   <a href="https://github.com/Kierznowski/java-2d-game">🏝️ java-2d-game 🪓</a> <br>
 
