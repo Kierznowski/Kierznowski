@@ -27,6 +27,8 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="images/JavaScript-logo.png" alt="javascript" width="30"/> </a>
 <a href="https://react.dev" target="_blank" rel="noreferrer"> <img src="images/React.svg" alt="react" width="30"/> </a>
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="images/Node.svg" alt="nodejs" height="30"/> </a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="images/C.png" alt="c" height="30"/> </a>
+<a href="https://en.wikipedia.org/wiki/C%2B%2B)" target="_blank" rel="noreferrer"> <img src="images/C++.png" alt="c++" height="30"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="images/Python-logo-notext.svg.png" alt="python" width="30" height="30"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="images/Docker_(container_engine)_logo_(cropped).png" alt="docker" height="30"/> </a>
 <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank" rel="noreferrer"> <img src="images/bash.png" alt="bash" width="30" height="30"/> </a>
