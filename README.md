@@ -23,18 +23,12 @@
 <b>Tech stack:</b>
 <br> <br>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="images/Java_logo_logo.webp" alt="java" height="30"/> </a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="images/Spring_Boot.svg.png" alt="spring" width="30" height="30"/> </a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="images/JavaScript-logo.png" alt="javascript" width="30"/> </a>
-<a href="https://react.dev" target="_blank" rel="noreferrer"> <img src="images/React.svg" alt="react" width="30"/> </a>
-<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="images/Node.svg" alt="nodejs" height="30"/> </a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="images/C.png" alt="c" height="30"/> </a>
 <a href="https://en.wikipedia.org/wiki/C%2B%2B)" target="_blank" rel="noreferrer"> <img src="images/C++.png" alt="c++" height="30"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="images/Python-logo-notext.svg.png" alt="python" width="30" height="30"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="images/Docker_(container_engine)_logo_(cropped).png" alt="docker" height="30"/> </a>
-<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank" rel="noreferrer"> <img src="images/bash.png" alt="bash" width="30" height="30"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="images/MySQL_logo.svg.png" alt="mysql" height="30"/> </a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="/images/Postgresql_elephant.svg.png" alt="postgreSQL" width="30" height="30"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="Windows" width="30" height="30"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="images/JavaScript-logo.png" alt="javascript" width="30"/> </a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="images/Spring_Boot.svg.png" alt="spring" width="30" height="30"/> </a>  
+<a href="https://react.dev" target="_blank" rel="noreferrer"> <img src="images/React.svg" alt="react" width="30"/> </a>
 <a href="https://www.microsoft.com/" target="_blank" rel="noreferrer"> <img src="images/Windows.png" alt="Windows" width="30" height="30"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a>
 <br>
