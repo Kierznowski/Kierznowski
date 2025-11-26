@@ -13,7 +13,7 @@
   Silibyte (freelance)
   <br> <br>
   Other projects: <br>
-  <a href="https://github.com/Kierznowski/2D-shooter-game"> 🕹️ 2.5D Raycasting Engine (like Wolf3D) in C++ 🔫</a> <br>
+  <a href="https://github.com/Kierznowski/Wolfenstein3D-like-engine"> 🕹️ 2.5D Raycasting Engine (like Wolf3D) in C++ 🔫</a> <br>
   <a href="https://github.com/Kierznowski/http_server_in_C">📥 Simple Http Server in C 📤</a> <br>
   <a href="https://github.com/Kierznowski/2D-shooter-game">🕹️ 2d network shooter game in C 🔫</a> <br>
   <a href="https://github.com/Kierznowski/rental-app">🏢 RentalApp web app in Spring/React 🏡</a> 
