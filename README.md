@@ -11,9 +11,6 @@
 <br>  - VISA 💳
 <br>  - Silibyte (freelance)
   <br> <br>
-  Other projects: <br>
-  <a href="https://github.com/Kierznowski/Wolfenstein3D-like-engine"> 🕹️ 2.5D Raycasting Engine (like Wolf3D) in C++ 🔫</a> <br>
-  <a href="https://github.com/Kierznowski/reactive-chat">✉️ ReactiveChat communicator in Spring/React ✉️</a> 
   
 
 <br>
